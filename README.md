@@ -23,3 +23,5 @@ This is a Figma prototype based on a Course App for Sheridan students. The appli
 4. Multilingual Support: A desirable functionality would be an app that offers multilingual support for learners who speak different languages. This could provide a more inclusive and accessible learning experience to users who are not proficient in a certain language
 
 5. Career Planning and Job Exploration: A desirable functionaly would be an app that offers career planning and exploration resources, such as career assessments, job market data, and networking opportunities
+
+# Prototype Screenshots
