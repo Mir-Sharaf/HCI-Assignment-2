@@ -6,7 +6,8 @@ This is a HCI project prototype created by Mir Sharaf and is designed to be a co
 
 Figma URL : [Version 1](https://www.figma.com/file/pJ6xMYoYC5UEc8oDKEPGnr/Course-App?t=ou0R13FNr7V2FfXJ-6) to see my first ever version of my prototype.
 
-Figma URL : [Version 2](https://www.figma.com/file/VSly2R8pJhfr4i5MUK260i/Assignment-2?t=ou0R13FNr7V2FfXJ-6) to see my second and improved version of my prototype.
+Figma URL : [Version 2](https://www.figma.com/proto/VSly2R8pJhfr4i5MUK260i/Assignment-2?scaling=scale-d
+own&page-id=0%3A1&starting-point-node-id=1%3A2&node-id=1%3A2) to see my second and improved version of my prototype.
 
 Youtube URL : [Version 2 of Prototype](https://youtu.be/LSv0sOdq9Ds)
 
